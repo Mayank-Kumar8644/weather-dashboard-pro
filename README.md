@@ -18,18 +18,20 @@ An advanced weather dashboard that provides **real-time weather data**, **5-day 
 
 ---
 
-##Technologies Used
-- **Frontend**
-**HTML5**
-**CSS3 (with modern features like backdrop-filter)**
-**Vanilla JavaScript (ES6+)**
-**Responsive Grid and Flexbox layouts**
--**Backen**
-**Node.js**
-**Express.js**
-**Axios for HTTP requests**
-**CORS for cross-origin requests**
-**Environment variables for configuration**
+## Technologies Used
+
+###  Frontend
+- **HTML5**
+- **CSS3** – with modern features like `backdrop-filter`
+- **Vanilla JavaScript (ES6+)**
+- **Responsive Layouts** – using CSS **Grid** and **Flexbox**
+
+###  Backend
+- **Node.js**
+- **Express.js**
+- **Axios** – for making HTTP requests
+- **CORS** – to handle cross-origin requests
+- **Environment Variables** – for secure configuration management
 
 ---
 
