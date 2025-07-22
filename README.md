@@ -27,7 +27,7 @@ An advanced weather dashboard that provides **real-time weather data**, **5-day 
 ---
 
 ## Live Demo
-[https://your-weather-app.onrender.com]([https://your-weather-app.onrender.com](https://weather-dashboard-pro.onrender.com/))
+([https://your-weather-app.onrender.com](https://weather-dashboard-pro.onrender.com/))
 
 ---
 
