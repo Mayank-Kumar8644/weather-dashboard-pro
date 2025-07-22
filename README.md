@@ -18,11 +18,18 @@ An advanced weather dashboard that provides **real-time weather data**, **5-day 
 
 ---
 
-## Tech Stack
-- **Frontend**: HTML5, CSS3, JavaScript, Chart.js
-- **Backend**: Node.js, Express, Axios
-- **API**: OpenWeatherMap (Weather, Forecast, Air Pollution, Alerts)
-- **Hosting**: Render
+##Technologies Used
+Frontend
+HTML5
+CSS3 (with modern features like backdrop-filter)
+Vanilla JavaScript (ES6+)
+Responsive Grid and Flexbox layouts
+Backend
+Node.js
+Express.js
+Axios for HTTP requests
+CORS for cross-origin requests
+Environment variables for configuration
 
 ---
 
