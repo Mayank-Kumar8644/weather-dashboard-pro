@@ -2,7 +2,8 @@
 
 An advanced weather dashboard that provides **real-time weather data**, **5-day forecasts**, **air quality index (AQI)**, and **interactive charts**, powered by the OpenWeather API.
 
-![Weather Dashboard Screenshot](https://via.placeholder.com/1200x600?text=Weather+Dashboard+Pro)
+<img width="1795" height="951" alt="Screenshot 2025-07-22 204315" src="https://github.com/user-attachments/assets/8d07fc9f-2db1-450c-960d-28c1cb083a81" />
+
 
 ---
 
